@@ -9,8 +9,9 @@ Original file is located at
 
 # Commented out IPython magic to ensure Python compatibility.
 #Phase 1 — Data Exploration
+import streamlit as st
 # Tampilkan plot di notebook
-# %matplotlib inline
+%matplotlib inline
 # Impor pandas dengan alias pd
 import pandas as pd
 # Impor numpy dengan alias np
