@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Baca file csv yang bernama diabetes.csv menggunakan pandas dan simpan dalam variabel diabetes
-diabetes = pd.read_csv('diabetes.csv')
+diabetes = pd.read_csv('https://github.com/NaseemMasaid/tugasDatmin/blob/main/diabetes.csv')
 # Cetak nama kolom dari dataframe diabetes
 print(diabetes.columns)
 
